@@ -1,0 +1,8 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","18882","Añadir el primer producto de búsqueda al carrito","","Tue Jun 03 23:13:51 COT 2025","passed","Tue Jun 03 23:14:09 COT 2025","","","",""
+"","88745","Registro, navegación, búsqueda, filtro y carrito","","Tue Jun 03 23:15:08 COT 2025","passed","Tue Jun 03 23:16:36 COT 2025","","","",""
+"","20476","Añadir el primer producto filtrado por categoría al carrito","","Tue Jun 03 23:14:09 COT 2025","passed","Tue Jun 03 23:14:30 COT 2025","","","",""
+"","49465","Completar el proceso de checkout y pago","","Tue Jun 03 23:16:36 COT 2025","passed","Tue Jun 03 23:17:26 COT 2025","","","",""
+"","17976","Búsqueda de productos por palabra clave ""dress""","","Tue Jun 03 23:14:30 COT 2025","passed","Tue Jun 03 23:14:48 COT 2025","","","",""
+"","19854","Filtrar productos por categoría ""Women"" y subcategoría ""Tops""","","Tue Jun 03 23:14:48 COT 2025","passed","Tue Jun 03 23:15:08 COT 2025","","","",""
+"","27432","Registro exitoso de un nuevo usuario","","Tue Jun 03 23:17:26 COT 2025","passed","Tue Jun 03 23:17:53 COT 2025","","","",""

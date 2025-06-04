@@ -1,0 +1,1 @@
+Esperado: / (tipo: ends_with), Actual: https://www.automationexercise.com/, Coincide: True
